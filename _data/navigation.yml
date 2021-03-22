@@ -1,0 +1,34 @@
+# main links
+main:
+  # - title: "Inscreve-te"
+  #   url: /inscrevete/
+  # - title: "Quem Somos"
+  #   url: /quemsomos/
+  
+docs:
+  - title: "Getting Started"
+    children:
+      - title: "Installing Bonsai"
+        url: /docs/installation/
+      - title: "Package Manager"
+        url: /docs/packages/
+      - title: "Workflow Editor"
+        url: /docs/editor/
+      - title: "Bonsai Gallery"
+        url: /docs/gallery/
+  - title: "Language Guide"
+    children:
+      - title: "Observables"
+        url: /docs/observables/
+      - title: "Operators"
+        url: /docs/operators/
+      - title: "Property Mapping"
+        url: /docs/property-mapping/
+      - title: "Higher Order Operators"
+        url: /docs/higher-order/
+      - title: "Subjects"
+        url: /docs/subjects/
+  - title: "Extending Bonsai"
+    children:
+      - title: "Creating a Package"
+        url: /docs/create-package/
