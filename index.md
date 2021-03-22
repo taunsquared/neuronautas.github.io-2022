@@ -35,7 +35,7 @@ hide_title: false
       <img src="/assets/images/NeuronautasBanner.svg" />
     </div>
     <div class="splash-block">
-      <p class = "ex1"><strong>Os <span class="blue-font">Neuronautas</span> estão de volta! Esta Academia Gulbenkian do Conhecimento procura jovens prontos a embarcar numa viagem ao futuro!</strong></p> 
+      <p class = "ex1"><strong>Os <span class="blue-font">Neuronautas</span> estão de volta! Esta Academia Gulbenkian do Conhecimento procura jovens prontos a embarcar numa viagem ao futuro da Neurociência!</strong></p> 
       <p><strong>Candidaturas abertas a jovens, inscritos no 10º ano numa escola dos concelhos de Lisboa e Oeiras. Para o voo de longa duração vamos recrutar 16 Neurocadetes e para o voo de curta duração procuramos 8 Chimeras.</strong></p>
       <p> </p>
       <b><span class="blue-font">Inscrições abertas até</span></b>
