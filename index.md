@@ -88,9 +88,19 @@ hide_title: false
       </div> -->
     </div>
   </div>
-  <!-- <div class="splash-block" > -->
-  <div class="splash-image-large">  
-      <img src="/assets/images/Logos.svg" />
-    <!-- </div> -->
+  <div class="splash-header" > 
+    <div class="splash-image-Calouste">  
+        <!-- <img src="/assets/images/Logos.svg" /> -->
+        <a href="https://gulbenkian.pt/"><img src="/assets/images/FundCaloustrGulbenkian.svg"/></a>
+    </div>
+    <div class="splash-image-Academia">
+        <a href="https://gulbenkian.pt/academias/"><img src="/assets/images/AcademiasGulbenkianConhecimento.svg" /></a>
+    </div>
+    <div class="splash-image-Champalimaud">
+        <a href="https://www.fchampalimaud.org/"><img src="/assets/images/FundacaoChampalimaud.svg" /></a>
+    </div>
+    <div class="splash-image-Neurogears">
+        <a href="https://neurogears.org/"><img src="/assets/images/NeuroGears.svg" /></a>
+    </div>
   </div>
 
