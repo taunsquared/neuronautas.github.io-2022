@@ -69,9 +69,26 @@
     text-justify: distribute-all-lines;
    // min-width: 300px; 
     //margin-trim: 5%;
+    margin-top: 2%;
     margin-left:2%;
 }
-.splash-block-pink{
+.splash-block-wide {
+    // global-font-family : 'Poppins-bold', sans-serif;
+    // header-font-family : 'Poppins-bold', sans-serif;
+    //font-family: 'Poppins-bold', sans-serif;
+    font-weight: 400;
+    //line-height: 1.75;
+    color: white;
+    order: -1;
+    width: 96%;
+    text-align:left;
+    text-justify: distribute-all-lines;
+   // min-width: 300px; 
+    //margin-trim: 5%;
+    margin-top: 2%;
+    margin-left:2%;
+}
+.splash-block-pink {
     // global-font-family : 'Poppins-bold', sans-serif;
     // header-font-family : 'Poppins-bold', sans-serif;
     //font-family: 'Poppins-bold', sans-serif;
@@ -89,13 +106,14 @@
 
 .splash-image {
     order: 0;
-    width: 46%;
-    min-width: 300px;
+    width: 48%;
+    // min-width: 300px;
     vertical-align: middle;
     margin-left: 2%;
 }
 .splash-image-large {
     order: 0;
+    //position:fixed; 
     width: 100%;
     max-width: 100%;
     height: auto;
@@ -104,7 +122,7 @@
 .splash-imageTop {
     order: 0;
     width: 40%;
-    min-width: 300px;
+    // min-width: 300px;
     vertical-align: middle;
     margin: 20px 10px;
     top: -150px;
@@ -131,12 +149,12 @@
 }
 p.ex1 {
     font-size: 36px;
-    letter-spacing: -0.96px;
+    letter-spacing: 1.15px;
     line-height: 1;
 
 }
 p.ex2 {
-    font-size: 65px;
+    font-size: 50px;
     letter-spacing: qpx;
     line-height: 1.5;
 

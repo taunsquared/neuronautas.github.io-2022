@@ -29,22 +29,19 @@ hide_title: false
   </div>
 </section> -->
 
+
   <div class="splash-header-Blue">
-    <img src="/assets/images/neuronautas2021Baner.svg" />
+    <div class="splash-image-large"> 
+      <img src="/assets/images/NeuronautasBanner.svg" />
+    </div>
     <div class="splash-block">
-      <p class = "ex1"><strong><span class="blue-font">missão: </span>“Capacitar jovens com as competências necessárias para seguirem a sua curiosidade, questionarem o que lhes é familiar e enfrentar o que lhes é desconhecido”</strong></p>
-      <div class="splash-header-Blue">
-        <div class="splash-block">
-          <small><b><span class="blue-font">Incrições de</span></b></small>
-          <p><strong>22.4</strong></p>
-        </div>
-        <div class="splash-block">
-          <small><b><span class="blue-font">Sessões</span></b></small>
-          <p><strong>24.6 - 15.7</strong></p>
-        </div>
-      </div>
+      <p class = "ex1"><strong>Os <span class="blue-font">Neuronautas</span> estão de volta! Esta Academia Gulbenkian do Conhecimento procura jovens prontos a embarcar numa viagem ao futuro!</strong></p> 
+      <p><strong>Candidaturas abertas a jovens, inscritos no 10º ano numa escola dos concelhos de Lisboa e Oeiras. Para o voo de longa duração vamos recrutar 16 Neurocadetes e para o voo de curta duração procuramos 8 Chimeras.</strong></p>
+      <p> </p>
+      <b><span class="blue-font">Inscrições abertas até</span></b>
+      <p><strong>22.4.2021</strong></p>
       <div class="splash-block-pink">
-       <strong><b><p class="ex2"><a  class = "ex1" href="https://docs.google.com/forms/d/1kg6kdx6TSVgnSgd9fsCNJ327-0kesnE3S8PZbY0IwrU/edit">Inscreve-te</a></p></b></strong>
+       <strong><b><p class="ex2"><a  class = "ex1" href="https://forms.gle/9sbZ72REQVdrwMeR8">Candidata-te</a></p></b></strong>
       </div>
     </div>
     <div class="splash-image">  
@@ -53,12 +50,16 @@ hide_title: false
   </div>
   <div class="splash-header-BlueTop">
     <div class="splash-block">
-      <h2>Opção 1: voo longo (4 semanas)</h2>
-      <p> Junta-te à aventura como um Neurocadete, um neurocientista de campo aprendiz de um futuro quando os humanos podem viajar através de galáxias e institutos de pesquisa flutuam em bolhas pelo espaço. Passarás 4 semanas a explorar e a reparar o famoso Champalimaud Research Bubble, um instituto de educação e pesquisa Neuronautas no teu setor galáctico. Este curso combina atividades independentes online com exercícios práticos guiados e discussões em grupo por chat de vídeo.</p>
+      <h2>Voo Longo <small>(24 de Jun a 17 de Jul)</small></h2>
+      <p> Junta-te à aventura como um Neurocadete, um neurocientista de campo aprendiz num futuro onde os humanos podem viajar através de galáxias e os institutos de investigação flutuam em bolhas pelo espaço.</p>
+      <p>Passarás 3 semanas e 2 dias a explorar e a reparar o famoso Champalimaud Research Bubble, um instituto de educação e investigação. Este voo combinará atividades online, onde viajarás de forma independente, com exercícios práticos e discussões guiadas pela equipa de Neuronautas, através de vídeo-chat.</p>
     </div>
     <div class="splash-block">
-      <h2>Opção 2: voo curto (2 semanas) </h2>
-      <p>Junta-te à aventura como um Chimera, um nómada do espaço que muda de forma, que vive no mesmo futuro e viaja em “navios-bolha”. As lendas dizem que, muito tempo atrás, os Chimeras já tiveram um planeta natal, mas ele foi destruído pela ganância implacável dos humanos. Passarás 2 semanas à procura de pistas sobre o antigo planeta natal Chimera e a proteger o teu povo da opressão dos humanos. Este curso combina atividades independentes online com discussões em grupo por chat de vídeo.</p>
+      <h2>Voo Curto <small>(28 de Jun a 09 de Jul)</small></h2>
+      <p>Junta-te à aventura como um Chimera, um nómada do espaço que muda de forma, que vive no mesmo futuro e viaja em “navios-bolha”. As lendas dizem que, há muito tempo atrás, as Chimeras já tiveram um planeta natal, mas este foi destruído pela ganância implacável dos humanos.</p><p>Passarás 2 semanas à procura de pistas sobre o antigo planeta natal Chimera e a proteger o teu povo da opressão dos humanos. Este voo combinará atividades online, onde viajarás de forma independente, com discussões guiadas pela equipa de Neuronautas, através de vídeo-chat.</p>
+    </div> 
+    <div class="splash-block-wide">
+      <p class = "ex1"><strong><span class="blue-font">missão: </span>“Capacitar jovens com as competências necessárias para seguirem a sua curiosidade, questionarem o que lhes é familiar e enfrentar o que lhes é desconhecido”</strong></p>
     </div>
   </div>
   <div class="splash-header">
@@ -75,15 +76,16 @@ hide_title: false
     </div>
     <div class="splash-block"> 
       <p>A Fundação Calouste Gulbenkian lançou em 2018 um concurso para projetos que tivessem como objetivo desenvolver competências, tais como, a resolução de problemas, a comunicação e o pensamento criativo, em jovens, para assim melhor prepará-los para o futuro e, em particular, para um mundo em constante mudança.</p>
-      <p>Um grupo de investigadores e de comunicadores de ciência da Fundação Champalimaud, em parceria com antigos alunos desta instituição, submeteu uma candidatura com uma ideia que pretende levar jovens numa exploração ao comportamento animal e ao funcionamento do cérebro. Entre as cerca de 600 candidaturas a concurso, apenas 5% foram selecionadas e é com um enorme orgulho que a academia Neuronautas é hoje uma das primeiras Academias Gulbenkian do Conhecimento espalhadas um pouco por todo o país.</p>
-      <div class="splash-header-Pink">
+      <iframe src="https://www.youtube.com/embed/FRCwWx-dlZE"  frameborder="0"> </iframe>
+      <p></p><p>Um grupo de investigadores e de comunicadores de ciência da Fundação Champalimaud, em parceria com antigos alunos desta instituição, submeteu uma candidatura com uma ideia que pretende levar jovens numa exploração ao comportamento animal e ao funcionamento do cérebro. Entre as cerca de 600 candidaturas a concurso, apenas 5% foram selecionadas e é com um enorme orgulho que a academia Neuronautas é hoje uma das primeiras Academias Gulbenkian do Conhecimento espalhadas um pouco por todo o país.</p>
+      <!-- <div class="splash-header-Pink">
         <div class="splash-block">
-          <p class="small">Para mais informações sobre este programa por favor consulte </p><p class="small"><a  class = "ex1" href="https://gulbenkian.pt/academias/">https://gulbenkian.pt/academias/</a></p>
+          <p class="small">Informações sobre este programa</p><p class="small"><a  class = "ex1" href="https://gulbenkian.pt/academias/">Academias Gulbenkian</a></p>
         </div>
         <div class="splash-block">
-          <p class="small">Para espreitar a academia Neuronautas </p><p class="small"><a  class = "ex1" href="https://gulbenkian.pt/academias/videos/fundacao-champalimaud/">https://gulbenkian.pt/academias/videos/ fundacao-champalimaud/</a></p>
+          <p class="small">Espreitar os Neuronautas </p><p class="small"><a  class = "ex1" href="https://gulbenkian.pt/academias/videos/fundacao-champalimaud/">Academia Neuronautas</a></p>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
   <!-- <div class="splash-block" > -->
