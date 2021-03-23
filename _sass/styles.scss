@@ -105,12 +105,12 @@
 }
 .splash-image {
     order: 1;
-    width: 48%;
+    width: 46%;
     // min-width: 300px;
     vertical-align: middle;
 
     position: relative;
-    margin-right: -2%;
+    margin-left: 2%;
 }
 .splash-image-Calouste {
     order: 1;
@@ -148,7 +148,7 @@
     position: relative;
    // margin-right: -2%;
 }
-splash-image-small {
+.splash-image-small {
     order: 1;
     padding: 2.5%,2.5%,2.5%,2.5% ;
     width: 20%;
@@ -171,8 +171,8 @@ splash-image-small {
     width: 40%;
     // min-width: 300px;
     vertical-align: middle;
-    margin: 20px 10px;
-    top: -150px;
+    margin: 2% 1%;
+    top: -5.8vw;
     position:relative;
 }
 @media screen and (min-width: 64em) { .splash-image { order: 0; } }
@@ -184,34 +184,39 @@ splash-image-small {
 }
 .page__content
 {
-    h2,
     p,
     li,
     dl {
         font-family: 'Poppins-bold', sans-serif;
+        font-size: 1.2vw;
     }
     
     font-weight: 400;
-    line-height: 1.75;
+    line-height: 2vw;
+}
+.page__content
+{
+    h2{
+        font-family: 'Poppins-bold', sans-serif;
+        font-size: 1.8vw;
+    }
+    
+    font-weight: 400;
+    line-height: 2vw;
 }
 p.ex1 {
-    font-size: 36px;
-    letter-spacing: 1.15px;
-    line-height: 1;
+    font-size: 1.7vw;
+    letter-spacing: 0.05vw;
+    line-height: 2vw;
 
 }
 p.ex2 {
-    font-size: 50px;
-    letter-spacing: qpx;
-    line-height: 1.5;
+    font-size: 3vw;
+    letter-spacing: 0.1vw;
+    line-height: 4vw;
 
   }
-p.small
-{
-    font-family: 'Poppins-Medium', sans-serif;
-    font-size: 1px;
-    line-height: 1;
-}
+
 a.ex1{
     color: #ffffff; 
 }
