@@ -223,4 +223,13 @@ a.ex1{
 .blue-font
 {
     color: #67CFD2;
+    p,
+    li,
+    dl {
+        font-family: 'Poppins-bold', sans-serif;
+        font-size: 1.2vw;
+    }
+    
+    font-weight: 400;
+    line-height: 4vw;
 }
