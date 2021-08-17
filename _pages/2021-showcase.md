@@ -111,9 +111,9 @@ Most Chimerans are very excited and hopeful that this planet could provide a new
 
 # Credits
 
-**TEACHERS:** Danbee Kim, João Frazão, André Almeida and Gonçalo Lopes
+**TEACHERS:** Danbee Kim, João Frazão, André Almeida, and Gonçalo Lopes
 
-**TEACHING ASSISTANTS:** Nuno Loureiro, Matheus Farias, Tiago Quendera, Bruno Cruz, Hugo Marques and André Marques
+**TEACHING ASSISTANTS:** Nuno Loureiro, Matheus Farias, Tiago Quendera, Bruno Cruz, Hugo Marques, and André Marques
 
 **MONITORS:** Catarina Ramos, Liad Hollender, and Clara Ferreira
 
