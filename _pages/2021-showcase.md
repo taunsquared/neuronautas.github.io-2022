@@ -63,6 +63,11 @@ Students: Margarida Oliveira, Francisca Gonçalves & Maria Pinheiro.
 
 TA: Danbee Kim.
 
+## Graduation Ceremony Slideshow
+
+**[Click here to view more images and videos from the Neurocadetes course.](https://docs.google.com/presentation/d/1PcQd9FF-pjqHjShXrXK8LZjcDbJA7ZrHtZrObyOa9wc/edit?usp=sharing)**
+{% include figure image_path="/assets/images/final-projects/Neurocadetes_Graduation.svg" %}
+
 # Chimeras
 
 The Chimeras adventure lasted 2 weeks and combined neuroscience theory with speculative fiction and collective improvisational storytelling. Students spent the first week creating an alien civilization, then spent the second week role-playing as members of this alien civilization.
