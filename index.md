@@ -19,7 +19,6 @@ hide_title: false
 #    title: "Visual servoing"
 ---
 
-
 <!-- <section id="highlights">
   <div style="width: 100%;text-align: center;">
     <a href="#reactive" class="btn btn--inverse padded"><img src="/assets/images/icon-reactive.svg" /><br>Reactive Algebra</a>
@@ -29,11 +28,10 @@ hide_title: false
   </div>
 </section> -->
 
-
   <div class="splash-header-Blue">
     <div class="splash-image-large"> 
       <img src="/assets/images/NeuronautasBanner.svg" />
-      <p> </p>
+      <br/>
     </div>
     <p> </p>
     <div class="splash-block">
@@ -105,4 +103,3 @@ hide_title: false
         <a href="https://neurogears.org/"><img src="/assets/images/NeuroGears.svg" /></a>
     </div>
   </div>
-

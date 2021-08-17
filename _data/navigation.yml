@@ -1,10 +1,10 @@
 # main links
 main:
-  # - title: "Inscreve-te"
-  #   url: /inscrevete/
+  - title: "2021 Showcase"
+    url: /2021-showcase/
   # - title: "Quem Somos"
   #   url: /quemsomos/
-  
+
 docs:
   - title: "Getting Started"
     children:
