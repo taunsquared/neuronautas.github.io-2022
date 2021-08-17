@@ -108,3 +108,19 @@ Most Chimerans are very excited and hopeful that this planet could provide a new
 {% include figure image_path="/assets/images/chimeras/RPG_moments01.jpg" %}
 {% include figure image_path="/assets/images/chimeras/RPG_moments02.jpg" %}
 {% include figure image_path="/assets/images/chimeras/RPG_moments03.jpg" alt="Drawings of favorite moments from the RPG adventure." caption="Drawings of some of the most exciting moments of the RPG adventure. Top 2 drawings by: Vasco Vaz. Bottom drawing by: Ricardo Silva Abrantes." %}
+
+# Credits
+
+**TEACHERS:** Danbee Kim, João Frazão, André Almeida and Gonçalo Lopes
+
+**TEACHING ASSISTANTS:** Nuno Loureiro, Matheus Farias, Tiago Quendera, Bruno Cruz, Hugo Marques and André Marques
+
+**MONITORS:** Catarina Ramos, Liad Hollender, and Clara Ferreira
+
+**DESIGN:** Gil Costa
+
+**NEURONAUTAS WEBSITE:** João Frazão, André Almeida, and Danbee Kim
+
+**NEURONAUTAS GATHER.TOWN MAP:** Nuno Loureiro
+
+**NEURONAUTAS DISCORD SERVER:** Danbee Kim
