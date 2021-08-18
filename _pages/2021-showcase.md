@@ -17,7 +17,7 @@ The Neurocadetes adventure lasted 4 weeks and combined neuroscience theory with 
 
 {% include figure image_path="/assets/images/final-projects/DogCatsRobots_image.svg" alt="The opening slide of the final presentation of the Dog, Cats, & Robots group." caption="The opening slide of the final presentation of the Dog, Cats, & Robots group." %}
 
-**The Dog, Cats & Robots** group explored how these animals interact with robots. [This video](https://youtu.be/mwsA0s61WmI), showing one of the cat subjects interacting with a robot, was acquired using the Neuronautas Experimental Kit during one of the experiments.
+**The Dog, Cats & Robots** group explored how these animals interact with robots. [This video](https://youtu.be/mwsA0s61WmI), showing one of the cat subjects interacting with a robot, was acquired using the Neuronautas Experimental Kit during one of the experiments. To learn more, check out [the Dog, Cats & Robots group's final presentation](https://drive.google.com/file/d/1oSh7QBUYja7qNLw7FEsz2UnQ4Y2ziwYL/view?usp=sharing).
 
 Students: Inês Beleza Costa, Maria Teresa Leitão, Sofia Manteigas & Miguel Januário.
 
@@ -27,7 +27,7 @@ TAs: João Frazão & André Almeida
 
 {% include figure image_path="/assets/images/final-projects/Humans.png" alt="A slide from the final presentation of the Vulcano Blues Group, who studied reaction time in humans." caption="A slide from the final presentation of the Vulcano Blues Group, who studied reaction time in humans." %}
 
-**The Vulcano Blues** group developed a sophisticated experimental set-up to investigate how different audio & visual contexts influence the reaction time of people engaged in a detection task.
+**The Vulcano Blues** group developed a sophisticated experimental set-up to investigate how different audio & visual contexts influence the reaction time of people engaged in a detection task. To learn more, check out [the Vulcano Blues group's final presentation](https://docs.google.com/presentation/d/1ICAHeQmz6BjC1MQ1tWGWe6JVns0CzuHzRjCRGUXQ7sY/edit?usp=sharing). 
 
 Students: Beatriz Robalo & João Lopes.
 
@@ -37,7 +37,7 @@ TAs: João Frazão, Matheus Farias, Danbee Kim & Bruno Cruz.
 
 {% include figure image_path="/assets/images/final-projects/Ducks.png" alt="A slide from the final presentation of the Quack Experiment Group, who studied the behaviour of ducks in the Jardim Gulbenkian." caption="A slide from the final presentation of the Quack Experiment Group, who studied the behaviour of ducks in the Jardim Gulbenkian." %}
 
-**The Quack Experiment** ventured into the wild of the Gulbenkian Garden in Lisbon to perform three different experiments on ducks. The image above presents a few snapshots from their colour experiment.
+**The Quack Experiment** ventured into the wild of the Gulbenkian Garden in Lisbon to perform three different experiments on ducks. The image above presents a few snapshots from their colour experiment. To learn more, check out [the Quack Experiment's final presentation](https://docs.google.com/presentation/d/1Smahr1GsvQKtpGal3fXfLwAI0oKCE64ivcRLksEcdJE/edit?usp=sharing). 
 
 Students: Beatriz Quintas, Maria Grilo & Teresa Coimbras.
 
@@ -47,7 +47,7 @@ TAs: Andre Marques & Danbee Kim
 
 {% include figure image_path="/assets/images/final-projects/Dogs.png" alt="A slide from the final presentation of the Magic With Dogs Group, who studied whether dogs could be fooled by a classic magic trick." caption="A slide from the final presentation of the Magic With Dogs Group, who studied whether dogs could be fooled by a classic magic trick." %}
 
-**The Magic With Dogs** group challenged dogs’ ability to tell when they’re being fooled. This image shows how the students applied the programming tool Bonsai to extract key variables from the experimental video.
+**The Magic With Dogs** group challenged dogs’ ability to tell when they’re being fooled. This image shows how the students applied the programming tool Bonsai to extract key variables from the experimental video. To learn more, check out [the Magic With Dogs group's final presentation](https://docs.google.com/presentation/d/1_hn3pkxADKNxJoSDFzF-ardCs-zZmhLjMimr8bywxok/edit?usp=sharing).
 
 Students: Rodrigo Sá & Gonçalo Magalhães.
 
@@ -57,7 +57,7 @@ TA: Matheus Farias
 
 {% include figure image_path="/assets/images/final-projects/Projeto008.svg" alt="A slide from the final presentation of the Project 008 group, who studied the behavior of a baby octopus at the Vasco da Gama aquario." caption="A slide from the final presentation of the Project 008 group, who studied the behavior of a baby octopus at the Vasco da Gama aquario." %}
 
-**Project 008** dove into the mysteries of how a young octopus at the Vasco de Gama aquarium in Algés learns. Using food in a jar as a motivator, these students stuied whether octopus can differentiate colors. [Click here](https://youtu.be/iQJ-bssjkYE) to watch a video of their pilot test at the Vasco de Gama aquarium. 
+**Project 008** dove into the mysteries of how a young octopus at the Vasco de Gama aquarium in Algés learns. Using food in a jar as a motivator, these students stuied whether octopus can differentiate colors. [Click here](https://youtu.be/iQJ-bssjkYE) to watch a video of their pilot test at the Vasco de Gama aquarium. To learn more, check out [the Project 008 final presentation](https://docs.google.com/presentation/d/1Icw0Tyw68aseEY3zTL2E6SVAzlHvumgDqMUF8jCQL8Y/edit?usp=sharing).
 
 Students: Margarida Oliveira, Francisca Gonçalves & Maria Pinheiro.
 
