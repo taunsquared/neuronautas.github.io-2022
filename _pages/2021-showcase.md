@@ -74,17 +74,31 @@ The Chimeras adventure lasted 2 weeks and combined neuroscience theory with spec
 
 ## World-building
 
-{% include figure image_path="/assets/images/chimeras/ChimeranLifeTimeline.jpg" alt="A timeline of the average Chimeran life span and major life events." caption="A timeline of the major events in a Chimerans life. The timeline includes when they can begin to shapeshift; how long they must study before they can participate in Crustacean Day (a Chimeran rite of passage into adulthood); the average age at which a Chimeran loses their ability to morph; and the average lifespan of a Chimeran. By: Ricardo Silva Abrantes." %}
+The students were given three starting points from which to build their science fiction alien civilization: 
 
-{% include figure image_path="/assets/images/chimeras/Tharro-os_MorphForms.jpg" %}
-{% include figure image_path="/assets/images/chimeras/Marlene_MorphForms.jpg" alt="The morph forms trained by character Marlene, created by Maria Inês Vicente." caption="Chimerans must train for many years to morph into another form. Each student made detailed drawings of the selection of other creatures that their Chimeran character has trained to morph into. Top image by: Vasco Vaz. Bottom image by: Maria Inês Vicente." %}
+1. Chimerans are a shape-shifting species who live and travel in "bubble ships". 
+2. Legends say that long long ago, the Chimerans once had a home planet, but it was destroyed by the ruthless greed of Humans. 
+3. Some legends also claim that Chimerans and Humans were once one species, but this is a point of great contention amongst modern Chimerans. 
 
-{% include figure image_path="/assets/images/chimeras/ChimeranUniforms_SciTechFaction.jpg" %}
-{% include figure image_path="/assets/images/chimeras/ChimeranUniforms_SpiritualHistoricalFaction.jpg" alt="Uniforms of the Chimeran factions, designed by Matilde Moreira and Lourenço Mateus." caption="Chimeran society has 4 factions: agriculture & ecology, military & exploration, spiritual & historical, and science & technology. All Chimerans wear a uniform, distinguished only by the colors of their faction. Shown here are the colors and logo of the spiritual & historical faction. By: Matilde Moreira and Lourenço Mateus." %}
+Based on these three assumptions, the students collectively built the following creation story and history for the Chimeran species:
 
-{% include figure image_path="/assets/images/chimeras/SciTech_Mothership.jpg" alt="Mothership of the Science and Technology faction." caption="The Chimerans are space nomads who spend their entire lives in zero-gravity. Instead of a home planet, Chimerans travel and live in the Home Caravan, which consists of the mother-spaceship of each faction and various smaller space vessels. Portrayed here is a space vessel from the science and technology faction. By: Vasco Vaz." %}
+*Once upon a time, Human scientists discovered a new and beautiful planet, covered mostly in oceans full of many incredible animals and plants. The scientists brought some of the animals and plants back to Earth to study them. They placed the animals in a secure room to analyze them, but the next day when the scientists returned to the secure room, they noticed that the animals looked very different. The scientists ran many tests and recorded the secure room to make sure that the animals were the same individuals, and that they weren't somehow escaping. In this way, the Humans discovered that the creatures from this planet can shapeshift.*
 
-{% include figure image_path="/assets/images/chimeras/Agriculture_Mothership.jpg" alt="Mothership of the Agriculture and Ecology faction." caption="The mothership of each faction is designed to both serve that faction’s role in Chimeran society, and to provide a village-like home to all members of the faction. Each mothership can provide for all basic needs, such as sleeping and living quarters, medical facilities, and basic education. All space vessels are powered by a crystal of adonis, a mineral found only in the ancient home planet of the Chimeras. Portrayed here is the mothership of the agriculture and ecology faction. By: Tiago Cavaco." %}
+*The scientists were curious to know whether the alien creatures' genetic structures were compatible with humans. They ran many studies that resulted in a creature that was a mixture of Human and alien DNA, and retained the ability to shapeshift. The scientists called this new, combined species* **Chimera**. *The Chimera raised many ethical questions on Earth, so some of the scientists decided to take all of the Chimera back to the original alien planet and hide them there. The scientists wiped all records of the alien planet, hoping that their creation could live in peace, far away from Humans.*
+
+*Many years later, Humans rediscovered this same planet and found that the Chimerans had evolved and developed a society. The Chimerans called their planet Zo-olos, and they used a currency made from a very rare mineral found deep in the planet, called Adonis.* 
+
+*Adonis was unlike any other mineral that Humans had ever seen, and the Humans had never come across the Adonis mineral on any other planet. The Humans decided that they wanted Adonis for themselves. They used violent force to exert their will on the Chimeran society, and started to mine Zo-olos very aggressively.*
+
+*Unfortunately, the work of extracting the ore was very dangerous, so the Humans enslaved the Chimera and forced the Chimera to mine Adonis under terrible conditions. Many incredible technological advances were made during this time, including the invention of the "bubble ships". However, Chimerans also died during this time.*
+
+*The uncontrolled extraction of Adonis began to cause major geological shifts in the planet, and Zo-olos began to collapse in on itself. The Chimerans began to rebel openly and more violently against their enslavement, trying to regain control of their planet. A young Chimeran tried to use genetic engineering to upgrade the Chimeran bubble ships to have tougher shielding and better weapons, but there was an unexpected problem with the upgrade that instead destroys most of the Chimeran bubble ships.*
+
+*The Chimerans' rebellion failed just as the planet began to completely implode. The Humans decide to leave, taking only a few Chimera with them, still as slaves. The rest of the Chimerans are left to die on the collapsing Zo-olos.*
+
+*Luckily, not all of the Chimeran bubble ships were destroyed. A very small percentage of the abandoned Chimerans managed to escape, and these are the Chimerans who became the nomadic space-farers of today. They wander the universe in the Home Caravan, searching for a new home, a new Zo-olos.*
+
+To learn more about the Chimerans and their society, check out [the Chimeras Final Showcase](https://docs.google.com/presentation/d/1MZHPDjtatOQlOdeFtBE61eo7dZ3YRunIPyuW5IadLJM/edit?usp=sharing). 
 
 ## Role-playing
 
@@ -94,20 +108,7 @@ The military & exploration faction has recently discovered a planet orbiting a r
 
 Most Chimerans are very excited and hopeful that this planet could provide a new home for the Chimerans. A small faction of 'loyalists' have been protesting, however, that this new planet does not provide enough ocean to be a true new Zo-olos, and they have been getting increasingly violent. There are concerns that they may sabotage the exploration mission.
 
-{% include figure image_path="/assets/images/chimeras/Marlene.jpg" %}
-{% include figure image_path="/assets/images/chimeras/Gahrphod.jpg" %}
-{% include figure image_path="/assets/images/chimeras/Watto.jpg" %}
-{% include figure image_path="/assets/images/chimeras/Tillie.jpg" %}
-{% include figure image_path="/assets/images/chimeras/Meliodas.jpg" %}
-{% include figure image_path="/assets/images/chimeras/Tharro-os.jpg" alt="Chimeran characters created by the students." caption="Students created Chimeran characters with which they played a table-top role-playing adventure created by teacher Danbee Kim. From top to bottom: Marlene, by Maria Inês Vicente; Gahrphod, by Tiago Cavaco; Watto, by Ricardo Silva Abrantes; Tillie, by Matilde Moreira; Meliodas, by Lourenço Mateus; and Tha'rro-os, by Vasco Vaz." %}
-
-{% include figure image_path="/assets/images/chimeras/Marlene_CharDescription.jpg" alt="Chimeran character description, with RPG stats." caption="Students also detailed the life history, strengths, and weaknesses of their characters. By: Maria Inês Vicente." %}
-
-{% include figure image_path="/assets/images/chimeras/Spacepod_labelled.jpg" alt="Labelled image of the space pod where the RPG adventure began." caption="The adventure began on a small planetary podship left drifting towards the moon of Kura-2, the candidate planet for a new Zo-olos, after a mysterious ambush in space. By: Danbee Kim." %}
-
-{% include figure image_path="/assets/images/chimeras/RPG_moments01.jpg" %}
-{% include figure image_path="/assets/images/chimeras/RPG_moments02.jpg" %}
-{% include figure image_path="/assets/images/chimeras/RPG_moments03.jpg" alt="Drawings of favorite moments from the RPG adventure." caption="Drawings of some of the most exciting moments of the RPG adventure. Top 2 drawings by: Vasco Vaz. Bottom drawing by: Ricardo Silva Abrantes." %}
+To learn more about the collaboratively written RPG story created by the Chimera students during week 2, check out [the Chimera Final Showcase](https://docs.google.com/presentation/d/1MZHPDjtatOQlOdeFtBE61eo7dZ3YRunIPyuW5IadLJM/edit?usp=sharing).
 
 # Credits
 
