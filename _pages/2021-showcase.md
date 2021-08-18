@@ -15,9 +15,9 @@ The Neurocadetes adventure lasted 4 weeks and combined neuroscience theory with 
 
 ## Dog, Cats, & Robots
 
-{% include video id="mwsA0s61WmI" provider="youtube" %}
+{% include figure image_path="/assets/images/final-projects/DogCatsRobots_image.svg" alt="The opening slide of the final presentation of the Dog, Cats, & Robots group." caption="The opening slide of the final presentation of the Dog, Cats, & Robots group." %}
 
-**The Dog, Cats & Robots** group explored how these animals interact with robots. This video, showing one of the cat subjects interacting with a robot, was acquired using the Neuronautas Experimental Kit during one of the experiments.
+**The Dog, Cats & Robots** group explored how these animals interact with robots. [This video](https://youtu.be/mwsA0s61WmI), showing one of the cat subjects interacting with a robot, was acquired using the Neuronautas Experimental Kit during one of the experiments.
 
 Students: Inês Beleza Costa, Maria Teresa Leitão, Sofia Manteigas & Miguel Januário.
 
@@ -55,9 +55,9 @@ TA: Matheus Farias
 
 ## Project 008
 
-{% include video id="iQJ-bssjkYE" provider="youtube" %}
+{% include figure image_path="/assets/images/final-projects/Projeto008.svg" alt="A slide from the final presentation of the Project 008 group, who studied the behavior of a baby octopus at the Vasco da Gama aquario." caption="A slide from the final presentation of the Project 008 group, who studied the behavior of a baby octopus at the Vasco da Gama aquario." %}
 
-**Project 008** dove into the mysteries of how a young octopus at the Vasco de Gama aquarium in Algés learns.
+**Project 008** dove into the mysteries of how a young octopus at the Vasco de Gama aquarium in Algés learns. Using food in a jar as a motivator, these students stuied whether octopus can differentiate colors. [Click here](https://youtu.be/iQJ-bssjkYE) to watch a video of their pilot test at the Vasco de Gama aquarium. 
 
 Students: Margarida Oliveira, Francisca Gonçalves & Maria Pinheiro.
 
