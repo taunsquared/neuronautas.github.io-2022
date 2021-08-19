@@ -27,7 +27,7 @@ TAs: João Frazão & André Almeida
 
 {% include figure image_path="/assets/images/final-projects/Humans.png" alt="A slide from the final presentation of the Vulcano Blues Group, who studied reaction time in humans." caption="A slide from the final presentation of the Vulcano Blues Group, who studied reaction time in humans." %}
 
-**The Vulcano Blues** group developed a sophisticated experimental set-up to investigate how different audio & visual contexts influence the reaction time of people engaged in a detection task. To learn more, check out [the Vulcano Blues group's final presentation](https://docs.google.com/presentation/d/1ICAHeQmz6BjC1MQ1tWGWe6JVns0CzuHzRjCRGUXQ7sY/edit?usp=sharing). 
+**The Vulcano Blues** group developed a sophisticated experimental set-up to investigate how different audio & visual contexts influence the reaction time of people engaged in a detection task. To learn more, check out [the Vulcano Blues group's final presentation](https://docs.google.com/presentation/d/1ICAHeQmz6BjC1MQ1tWGWe6JVns0CzuHzRjCRGUXQ7sY/edit?usp=sharing).
 
 Students: Beatriz Robalo & João Lopes.
 
@@ -37,7 +37,7 @@ TAs: João Frazão, Matheus Farias, Danbee Kim & Bruno Cruz.
 
 {% include figure image_path="/assets/images/final-projects/Ducks.png" alt="A slide from the final presentation of the Quack Experiment Group, who studied the behaviour of ducks in the Jardim Gulbenkian." caption="A slide from the final presentation of the Quack Experiment Group, who studied the behaviour of ducks in the Jardim Gulbenkian." %}
 
-**The Quack Experiment** ventured into the wild of the Gulbenkian Garden in Lisbon to perform three different experiments on ducks. The image above presents a few snapshots from their colour experiment. To learn more, check out [the Quack Experiment's final presentation](https://docs.google.com/presentation/d/1Smahr1GsvQKtpGal3fXfLwAI0oKCE64ivcRLksEcdJE/edit?usp=sharing). 
+**The Quack Experiment** ventured into the wild of the Gulbenkian Garden in Lisbon to perform three different experiments on ducks. The image above presents a few snapshots from their colour experiment. To learn more, check out [the Quack Experiment's final presentation](https://docs.google.com/presentation/d/1Smahr1GsvQKtpGal3fXfLwAI0oKCE64ivcRLksEcdJE/edit?usp=sharing).
 
 Students: Beatriz Quintas, Maria Grilo & Teresa Coimbras.
 
@@ -74,31 +74,31 @@ The Chimeras adventure lasted 2 weeks and combined neuroscience theory with spec
 
 ## World-building
 
-The students were given three starting points from which to build their science fiction alien civilization: 
+The students were given three starting points from which to build their science fiction alien civilization:
 
-1. Chimerans are a shape-shifting species who live and travel in "bubble ships". 
-2. Legends say that long long ago, the Chimerans once had a home planet, but it was destroyed by the ruthless greed of Humans. 
-3. Some legends also claim that Chimerans and Humans were once one species, but this is a point of great contention amongst modern Chimerans. 
+1. Chimerans are a shape-shifting species who live and travel in "bubble ships".
+2. Legends say that long long ago, the Chimerans once had a home planet, but it was destroyed by the ruthless greed of Humans.
+3. Some legends also claim that Chimerans and Humans were once one species, but this is a point of great contention amongst modern Chimerans.
 
 Based on these three assumptions, the students collectively built the following creation story and history for the Chimeran species:
 
-*Once upon a time, Human scientists discovered a new and beautiful planet, covered mostly in oceans full of many incredible animals and plants. The scientists brought some of the animals and plants back to Earth to study them. They placed the animals in a secure room to analyze them, but the next day when the scientists returned to the secure room, they noticed that the animals looked very different. The scientists ran many tests and recorded the secure room to make sure that the animals were the same individuals, and that they weren't somehow escaping. In this way, the Humans discovered that the creatures from this planet can shapeshift.*
+_Once upon a time, Human scientists discovered a new and beautiful planet, covered mostly in oceans full of many incredible animals and plants. The scientists brought some of the animals and plants back to Earth to study them. They placed the animals in a secure room to analyze them, but the next day when the scientists returned to the secure room, they noticed that the animals looked very different. The scientists ran many tests and recorded the secure room to make sure that the animals were the same individuals, and that they weren't somehow escaping. In this way, the Humans discovered that the creatures from this planet can shapeshift._
 
-*The scientists were curious to know whether the alien creatures' genetic structures were compatible with humans. They ran many studies that resulted in a creature that was a mixture of Human and alien DNA, and retained the ability to shapeshift. The scientists called this new, combined species* **Chimera**. *The Chimera raised many ethical questions on Earth, so some of the scientists decided to take all of the Chimera back to the original alien planet and hide them there. The scientists wiped all records of the alien planet, hoping that their creation could live in peace, far away from Humans.*
+_The scientists were curious to know whether the alien creatures' genetic structures were compatible with humans. They ran many studies that resulted in a creature that was a mixture of Human and alien DNA, and retained the ability to shapeshift. The scientists called this new, combined species_ **Chimera**. _The Chimera raised many ethical questions on Earth, so some of the scientists decided to take all of the Chimera back to the original alien planet and hide them there. The scientists wiped all records of the alien planet, hoping that their creation could live in peace, far away from Humans._
 
-*Many years later, Humans rediscovered this same planet and found that the Chimerans had evolved and developed a society. The Chimerans called their planet Zo-olos, and they used a currency made from a very rare mineral found deep in the planet, called Adonis.* 
+_Many years later, Humans rediscovered this same planet and found that the Chimerans had evolved and developed a society. The Chimerans called their planet Zo-olos, and they used a currency made from a very rare mineral found deep in the planet, called Adonis._
 
-*Adonis was unlike any other mineral that Humans had ever seen, and the Humans had never come across the Adonis mineral on any other planet. The Humans decided that they wanted Adonis for themselves. They used violent force to exert their will on the Chimeran society, and started to mine Zo-olos very aggressively.*
+_Adonis was unlike any other mineral that Humans had ever seen, and the Humans had never come across the Adonis mineral on any other planet. The Humans decided that they wanted Adonis for themselves. They used violent force to exert their will on the Chimeran society, and started to mine Zo-olos very aggressively._
 
-*Unfortunately, the work of extracting the ore was very dangerous, so the Humans enslaved the Chimera and forced the Chimera to mine Adonis under terrible conditions. Many incredible technological advances were made during this time, including the invention of the "bubble ships". However, Chimerans also died during this time.*
+_Unfortunately, the work of extracting the ore was very dangerous, so the Humans enslaved the Chimera and forced the Chimera to mine Adonis under terrible conditions. Many incredible technological advances were made during this time, including the invention of the "bubble ships". However, Chimerans also died during this time._
 
-*The uncontrolled extraction of Adonis began to cause major geological shifts in the planet, and Zo-olos began to collapse in on itself. The Chimerans began to rebel openly and more violently against their enslavement, trying to regain control of their planet. A young Chimeran tried to use genetic engineering to upgrade the Chimeran bubble ships to have tougher shielding and better weapons, but there was an unexpected problem with the upgrade that instead destroys most of the Chimeran bubble ships.*
+_The uncontrolled extraction of Adonis began to cause major geological shifts in the planet, and Zo-olos began to collapse in on itself. The Chimerans began to rebel openly and more violently against their enslavement, trying to regain control of their planet. A young Chimeran tried to use genetic engineering to upgrade the Chimeran bubble ships to have tougher shielding and better weapons, but there was an unexpected problem with the upgrade that instead destroyed most of the Chimeran bubble ships._
 
-*The Chimerans' rebellion failed just as the planet began to completely implode. The Humans decide to leave, taking only a few Chimera with them, still as slaves. The rest of the Chimerans are left to die on the collapsing Zo-olos.*
+_The Chimerans' rebellion failed just as the planet began to completely implode. The Humans decide to leave, taking only a few Chimera with them, still as slaves. The rest of the Chimerans are left to die on the collapsing Zo-olos._
 
-*Luckily, not all of the Chimeran bubble ships were destroyed. A very small percentage of the abandoned Chimerans managed to escape, and these are the Chimerans who became the nomadic space-farers of today. They wander the universe in the Home Caravan, searching for a new home, a new Zo-olos.*
+_Luckily, not all of the Chimeran bubble ships were destroyed. A very small percentage of the abandoned Chimerans managed to escape, and these are the Chimerans who became the nomadic space-farers of today. They wander the universe in the Home Caravan, searching for a new home, a new Zo-olos._
 
-To learn more about the Chimerans and their society, check out [the Chimeras Final Showcase](https://docs.google.com/presentation/d/1MZHPDjtatOQlOdeFtBE61eo7dZ3YRunIPyuW5IadLJM/edit?usp=sharing). 
+To learn more about the Chimerans and their society, check out [the Chimeras Final Showcase](https://docs.google.com/presentation/d/1MZHPDjtatOQlOdeFtBE61eo7dZ3YRunIPyuW5IadLJM/edit?usp=sharing).
 
 ## Role-playing
 
