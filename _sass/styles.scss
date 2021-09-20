@@ -75,8 +75,9 @@
   // global-font-family : 'Poppins-bold', sans-serif;
   // header-font-family : 'Poppins-bold', sans-serif;
   //font-family: 'Poppins-bold', sans-serif;
+  font-size: 1em;
   font-weight: 400;
-  //line-height: 1.75;
+  line-height: 1.25em;
   color: white;
   order: 0;
   width: 46%;
@@ -167,7 +168,7 @@
   order: 1;
   padding: 2.5%, 2.5%, 2.5%, 2.5%;
   width: 20%;
-  height: 100px;
+  height: 10em;
   // min-width: 300px;
   vertical-align: middle;
   position: relative;
@@ -190,12 +191,12 @@
   top: -5.8vw;
   position: relative;
 }
-@media screen and (min-width: 64em) {
+@media screen and (min-width: 320px) {
   .splash-image {
     order: 0;
   }
 }
-@media screen and (min-width: 42em) and (max-width: 64em) {
+@media screen and (min-width: 320px) and (max-width: 640px) {
   .splash-image {
     order: -1;
   }
@@ -215,30 +216,30 @@
   dl,
   figcaption {
     font-family: "Poppins-bold", sans-serif;
-    font-size: 1.2vw;
+    // font-size: 13px;
   }
 
   font-weight: 400;
-  line-height: 2vw;
+  line-height: 1.5em;
 }
 .page__content {
   h2 {
     font-family: "Poppins-bold", sans-serif;
-    font-size: 1.8vw;
+    font-size: 1.3em;
   }
 
   font-weight: 400;
-  line-height: 2vw;
+  line-height: 1.5em;
 }
 p.ex1 {
-  font-size: 1.7vw;
-  letter-spacing: 0.05vw;
-  line-height: 2vw;
+  // font-size: 16px;
+  // letter-spacing: 0.05vw;
+  // line-height: 18px;
 }
 p.ex2 {
-  font-size: 3vw;
+  font-size: 1.5em;
   letter-spacing: 0.1vw;
-  line-height: 4vw;
+  line-height: 1.6em;
 }
 
 a.ex1 {
@@ -250,9 +251,9 @@ a.ex1 {
   li,
   dl {
     font-family: "Poppins-bold", sans-serif;
-    font-size: 1.2vw;
+    font-size: 1em;
   }
 
   font-weight: 400;
-  line-height: 4vw;
+  // line-height: 20px;
 }
