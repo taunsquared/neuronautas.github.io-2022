@@ -48,7 +48,12 @@
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background-color: #3e5fed;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: "/assets/images/2022NeuronautasMainImage.svg";
+  width: 100%;
+  height: auto;
+  order: 0;
 }
 .splash-header-BlueTop {
   width: 100%;
@@ -78,7 +83,6 @@
   font-size: 1em;
   font-weight: 400;
   line-height: 1.25em;
-  color: white;
   order: 0;
   width: 46%;
   text-align: left;
@@ -88,6 +92,26 @@
   margin-top: 2%;
   margin-left: 2%;
 }
+
+.splash-block-main {
+  // global-font-family : 'Poppins-bold', sans-serif;
+  // header-font-family : 'Poppins-bold', sans-serif;
+  //font-family: 'Poppins-bold', sans-serif;
+  background-image: "/assets/images/2022NeuronautasMainImage.svg";
+  width: 100%;
+  height: auto;
+  order: 0;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.25em;
+  text-align: left;
+  text-justify: distribute-all-lines;
+  // min-width: 300px;
+  //margin-trim: 5%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
 .splash-block-wide {
   // global-font-family : 'Poppins-bold', sans-serif;
   // header-font-family : 'Poppins-bold', sans-serif;
@@ -124,16 +148,14 @@
   width: 46%;
   // min-width: 300px;
   vertical-align: middle;
-
   position: relative;
-  margin-left: 2%;
+  margin-left: auto;
 }
 .splash-image-Calouste {
   order: 1;
   width: 35.8%;
   // min-width: 300px;
   vertical-align: middle;
-
   position: relative;
   // margin-right: -2%;
 }
@@ -142,7 +164,6 @@
   width: 22.6%;
   // min-width: 300px;
   vertical-align: middle;
-
   position: relative;
   // margin-right: -2%;
 }
@@ -151,7 +172,6 @@
   width: 24.1%;
   // min-width: 300px;
   vertical-align: middle;
-
   position: relative;
   // margin-right: -2%;
 }
@@ -160,7 +180,6 @@
   width: 17.5%;
   // min-width: 300px;
   vertical-align: middle;
-
   position: relative;
   // margin-right: -2%;
 }
@@ -181,6 +200,8 @@
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
 }
 .splash-imageTop {
   order: 0;
