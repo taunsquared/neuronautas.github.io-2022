@@ -10,26 +10,17 @@ hide_title: false
     <img src="/assets/images/2022NeuronautasSiteBanner.svg" />
     <br/>
   </div>
-  <p> </p>
-  <div class="splash-block-main">
-    <p class = "ex1"><strong>Os <span class="blue-font">Neuronautas</span> estão de volta! Esta Academia Gulbenkian do Conhecimento procura jovens prontos a embarcar numa viagem ao futuro da Neurociência!</strong></p> 
-    <p><strong>Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</strong></p>
-    <p> </p>
-    <b><span class="blue-font">Prazo alargado até:</span></b>
-    <p><strong>26.4.2021</strong></p>
-    <div class="splash-block-pink">
-      <strong><b><p class="ex2"><a  class = "ex1" href="https://forms.gle/9sbZ72REQVdrwMeR8">Candidata-te</a></p></b></strong>
+  <div class="splash-block-pink">
+    <strong><b><p class="ex3"><a class="ex1" href="https://forms.gle/6mHJm5H2Kzr56eq98" target="_blank">Candidata-te até: 27.5.2022</a></p></b></strong>
+  </div>
+  <div class="splash-block-wide">
+    <div class="splash-text-main">
+      <p class="ex0"><strong>Os <span class="blue-font"><strong>Neuronautas</strong></span> estão de volta! <br/>Esta Academia Gulbenkian do Conhecimento procura jovens prontos a embarcar numa viagem ao futuro da Neurociência!</strong></p> 
+      <br/>
+      <p class="ex1"><strong>Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</strong></p>
+      <p class="ex2"><strong>As candidaturas estão abertas a jovens, entre os 15 e os 17 anos e, este ano, poderás escolher entre duas opções: <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">Voo Longo</a> - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">Voo Curto</a> - 1 semana online</strong></p>
     </div>
   </div>
-  <div class="splash-block">
-    <h2>Voo Longo <small>(24 de Jun a 17 de Jul)</small></h2>
-    <p> Junta-te à aventura como um Neurocadete, um neurocientista de campo aprendiz num futuro onde os humanos podem viajar através de galáxias e os institutos de investigação flutuam em bolhas pelo espaço.</p>
-    <p>Passarás 3 semanas e 2 dias a explorar e a reparar o famoso Champalimaud Research Bubble, um instituto de educação e investigação. Este voo combinará atividades online, onde viajarás de forma independente, com exercícios práticos e discussões guiadas pela equipa de Neuronautas, através de vídeo-chat.</p>
-  </div>
-  <div class="splash-block">
-    <h2>Voo Curto <small>(28 de Jun a 09 de Jul)</small></h2>
-    <p>Junta-te à aventura como um Chimera, um nómada do espaço que muda de forma, que vive no mesmo futuro e viaja em “navios-bolha”. As lendas dizem que, há muito tempo atrás, as Chimeras já tiveram um planeta natal, mas este foi destruído pela ganância implacável dos humanos.</p><p>Passarás 2 semanas à procura de pistas sobre o antigo planeta natal Chimera e a proteger o teu povo da opressão dos humanos. Este voo combinará atividades online, onde viajarás de forma independente, com discussões guiadas pela equipa de Neuronautas, através de vídeo-chat.</p>
-  </div> 
 </div>
 <div class="splash-header">
   <div class="splash-block"></div>
