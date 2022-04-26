@@ -16,7 +16,6 @@ hide_title: false
   <div class="splash-block-wide">
     <div class="splash-text-main">
       <p class="ex0"><strong>Os <span class="blue-font"><strong>Neuronautas</strong></span> estão de volta! <br/>Esta Academia Gulbenkian do Conhecimento procura jovens prontos a embarcar numa viagem ao futuro da Neurociência!</strong></p> 
-      <br/>
       <p class="ex1"><strong>Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</strong></p>
       <p class="ex2"><strong>As candidaturas estão abertas a jovens, entre os 15 e os 17 anos e, este ano, poderás escolher entre duas opções: <br/><br/><a href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">VOO LONGO</a> <br/>2 semanas no Centro Champalimaud em Lisboa <br/><br/><a href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">VOO CURTO</a><br/>1 semana online</strong></p>
     </div>
@@ -24,7 +23,7 @@ hide_title: false
 </div>
 <div class="splash-header">
   <div class="splash-block-main">
-    <span style="color:#3e5fed; font-size: 26px; font-weight: bold;">O que são as Academias Gulbenkian do Conhecimento?</span>
+      O que são as Academias Gulbenkian do Conhecimento?
   </div>
 </div>
 <div class="splash-header-Pink">
