@@ -41,8 +41,8 @@
   background-color: #ffffff;
 }
 .splash-header-Blue {
-  width: 100%;
   //font-family: 'Poppins-bold', sans-serif;
+  color: white;
   text-align: left;
   display: inline-flex;
   justify-content: center;
@@ -50,8 +50,6 @@
   flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
-  background-image: "/assets/images/2022NeuronautasMainImage.svg";
-  width: 100%;
   height: auto;
   order: 0;
 }
@@ -83,6 +81,7 @@
   font-size: 1em;
   font-weight: 400;
   line-height: 1.25em;
+  color: white;
   order: 0;
   width: 46%;
   text-align: left;
@@ -97,10 +96,6 @@
   // global-font-family : 'Poppins-bold', sans-serif;
   // header-font-family : 'Poppins-bold', sans-serif;
   //font-family: 'Poppins-bold', sans-serif;
-  background-image: "/assets/images/2022NeuronautasMainImage.svg";
-  width: 100%;
-  height: auto;
-  order: 0;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.25em;
@@ -110,23 +105,20 @@
   //margin-trim: 5%;
   margin-top: 2%;
   margin-left: 2%;
+  margin-bottom: 10%;
 }
 
 .splash-block-wide {
   // global-font-family : 'Poppins-bold', sans-serif;
   // header-font-family : 'Poppins-bold', sans-serif;
   //font-family: 'Poppins-bold', sans-serif;
-  font-weight: 400;
-  //line-height: 1.75;
-  color: white;
-  order: -1;
-  width: 96%;
-  text-align: left;
-  text-justify: distribute-all-lines;
+  background-image: url("/assets/images/2022NeuronautasMainImage.svg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  order: 0;
+  aspect-ratio: 842/1191;
   // min-width: 300px;
   //margin-trim: 5%;
-  margin-top: 2%;
-  margin-left: 2%;
 }
 .splash-block-pink {
   // global-font-family : 'Poppins-bold', sans-serif;
@@ -143,13 +135,15 @@
   // margin-right:10%;
   background-color: #d71f81;
 }
-.splash-image {
-  order: 1;
-  width: 46%;
-  // min-width: 300px;
-  vertical-align: middle;
-  position: relative;
-  margin-left: auto;
+.splash-text-main {
+  order: 0;
+  font-weight: 400;
+  width: 68%;
+  height: 100%;
+  color: white;
+  text-align: left;
+  margin-top: 15%;
+  margin-left: 8%;
 }
 .splash-image-Calouste {
   order: 1;
@@ -252,15 +246,36 @@
   font-weight: 400;
   line-height: 1.5em;
 }
+p.ex0 {
+  font-size: 3.5vw;
+  letter-spacing: 0.07vw;
+  line-height: 4.2vw;
+  margin-right: 10%;
+}
 p.ex1 {
-  // font-size: 16px;
-  // letter-spacing: 0.05vw;
-  // line-height: 18px;
+  font-size: 2.5vw;
+  letter-spacing: 0.07vw;
+  line-height: 3.2vw;
+  margin-right: 40%;
 }
 p.ex2 {
-  font-size: 1.5em;
+  color: #3b1f5e;
+  font-size: 1.8vw;
+  letter-spacing: 0.05vw;
+  line-height: 2.4vw;
+  margin-left: 58%;
+  margin-right: 5%;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+p.ex3 {
+  font-size: 4vw;
   letter-spacing: 0.1vw;
-  line-height: 1.6em;
+  line-height: 4.7vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 a.ex1 {
