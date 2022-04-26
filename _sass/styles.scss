@@ -105,6 +105,7 @@
   //margin-trim: 5%;
   margin-top: 2%;
   margin-left: 2%;
+  margin-bottom: 10%;
 }
 
 .splash-block-wide {
@@ -115,6 +116,7 @@
   background-size: 100%;
   background-repeat: no-repeat;
   order: 0;
+  aspect-ratio: 842/1191;
   // min-width: 300px;
   //margin-trim: 5%;
 }
@@ -142,7 +144,6 @@
   text-align: left;
   margin-top: 15%;
   margin-left: 8%;
-  margin-bottom: 20%;
 }
 .splash-image-Calouste {
   order: 1;
@@ -258,11 +259,16 @@ p.ex1 {
   margin-right: 40%;
 }
 p.ex2 {
+  color: #3b1f5e;
   font-size: 1.8vw;
   letter-spacing: 0.05vw;
   line-height: 2.4vw;
-  margin-left: 57%;
+  margin-left: 58%;
   margin-right: 5%;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
 }
 p.ex3 {
   font-size: 4vw;
