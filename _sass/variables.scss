@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins-bold:400');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&display=swap');
+
 /* system typefaces */
 $serif                        : Georgia, Times, serif !default;
-$sans-serif                   : Poppins-bold, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif                   : 'Poppins', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow            : $sans-serif !default;
 $helvetica                    : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
-$poppins                      : Poppins-bold, "Poppins-bold" , sans-serif !default;
+$poppins                      : 'Poppins', sans-serif !default;
 
 /* serif typefaces */
 $georgia                      : Georgia, serif !default;
