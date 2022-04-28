@@ -1,13 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins-bold:400");
-@import url("https://fonts.googleapis.com/css?family=Poppins-Medium:400");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&display=swap');
 
-// .body {
-//     background: white;
-//     font-family: 'Poppins', sans-serif;
-//     font-weight: 400;
-//     line-height: 1.75;
-//     color: #000000;
-//   }
 .padded {
   margin-bottom: 20px;
   border: 0px;
@@ -41,7 +33,7 @@
   background-color: #ffffff;
 }
 .splash-header-Blue {
-  //font-family: 'Poppins-bold', sans-serif;
+  //font-family: 'Poppins', sans-serif;
   color: white;
   text-align: left;
   display: inline-flex;
@@ -55,7 +47,7 @@
 }
 .splash-header-BlueTop {
   width: 100%;
-  //font-family: 'Poppins-bold', sans-serif;
+  //font-family: 'Poppins', sans-serif;
   text-align: left;
   display: inline-flex;
   justify-content: center;
@@ -65,7 +57,7 @@
 }
 .splash-header-Pink {
   width: 100%;
-  //font-family: 'Poppins-bold', sans-serif;
+  //font-family: 'Poppins', sans-serif;
   text-align: left;
   display: inline-flex;
   justify-content: center;
@@ -75,12 +67,13 @@
 }
 
 .splash-block {
-  // global-font-family : 'Poppins-bold', sans-serif;
-  // header-font-family : 'Poppins-bold', sans-serif;
-  //font-family: 'Poppins-bold', sans-serif;
+  // global-font-family : 'Poppins', sans-serif;
+  // header-font-family : 'Poppins', sans-serif;
+  //font-family: 'Poppins', sans-serif;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.25em;
+  color: white;
   order: 0;
   width: 46%;
   text-align: left;
@@ -92,56 +85,42 @@
 }
 
 .splash-block-main {
-  // global-font-family : 'Poppins-bold', sans-serif;
-  // header-font-family : 'Poppins-bold', sans-serif;
-  //font-family: 'Poppins-bold', sans-serif;
-  font-size: 1em;
-  font-weight: 400;
+  // global-font-family : 'Poppins', sans-serif;
+  // header-font-family : 'Poppins', sans-serif;
+  //font-family: 'Poppins', sans-serif;
+  font-size: 1.5em;
+  font-weight: 800;
   line-height: 1.25em;
-  text-align: left;
+  text-align: center;
   text-justify: distribute-all-lines;
-  // min-width: 300px;
-  //margin-trim: 5%;
-  margin-top: 2%;
-  margin-left: 2%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 40%;
+  width: 60%;
+  color:#3e5fed;  
 }
 
 .splash-block-wide {
-  // global-font-family : 'Poppins-bold', sans-serif;
-  // header-font-family : 'Poppins-bold', sans-serif;
-  //font-family: 'Poppins-bold', sans-serif;
-  background-image: url("/assets/images/2022NeuronautasMainImage.svg");
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-color: #dcf2ff;
   order: 0;
-  // min-width: 300px;
-  //margin-trim: 5%;
 }
 .splash-block-pink {
-  // global-font-family : 'Poppins-bold', sans-serif;
-  // header-font-family : 'Poppins-bold', sans-serif;
-  //font-family: 'Poppins-bold', sans-serif;
   font-weight: 400;
-  //line-height: 1.75;
   color: white;
   order: 0;
   width: 100%;
   text-align: center;
-  // min-width: 300px;
-  //margin-trim: 5%;
-  // margin-right:10%;
   background-color: #d71f81;
 }
 .splash-text-main {
   order: 0;
-  font-weight: 400;
-  width: 68%;
+  font-weight: 700;
+  width: 70%;
   height: 100%;
-  color: white;
   text-align: left;
-  margin-top: 15%;
-  margin-left: 8%;
-  margin-bottom: 20%;
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 .splash-image-Calouste {
   order: 1;
@@ -228,16 +207,15 @@
   li,
   dl,
   figcaption {
-    font-family: "Poppins-bold", sans-serif;
+    font-family: "Poppins", sans-serif;
     // font-size: 13px;
   }
-
   font-weight: 400;
   line-height: 1.5em;
 }
 .page__content {
   h2 {
-    font-family: "Poppins-bold", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 1.3em;
   }
 
@@ -245,41 +223,61 @@
   line-height: 1.5em;
 }
 p.ex0 {
-  font-size: 3.5vw;
-  letter-spacing: 0.07vw;
-  line-height: 4.2vw;
-  margin-right: 10%;
+  color: #351f81;
+  font-family: 'Poppins', sans-serif;
+  font-weight:800;
+  font-size: 1.5em;
+  line-height: 1.25em;
+  margin-right: 20%;
 }
 p.ex1 {
-  font-size: 2.5vw;
-  letter-spacing: 0.07vw;
-  line-height: 3.2vw;
+  color: #351f81;
+  font-family: 'Poppins', sans-serif;
+  font-weight:700;
+  font-size: 1em;
+  line-height: 1.25em;
   margin-right: 40%;
 }
 p.ex2 {
-  font-size: 1.8vw;
-  letter-spacing: 0.05vw;
-  line-height: 2.4vw;
-  margin-left: 57%;
-  margin-right: 5%;
+  color: #351f81;
+  font-size: 1em;
+  line-height: 1.25em;
+  margin-right: 40%;
 }
 p.ex3 {
-  font-size: 4vw;
-  letter-spacing: 0.1vw;
-  line-height: 4.7vw;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  color: #351f81;
+  font-size: 1.25em;
+  line-height: 1.25em;
+  margin-right: 50%;
 }
-
+p.ex4 {
+  font-size: 1.75em;
+  letter-spacing: 0.05vh;
+  line-height: 1.25em;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
 a.ex1 {
-  color: #ffffff;
+  color: #d71f81;
 }
 .blue-font {
   color: #67cfd2;
   p,
   li,
   dl {
-    font-family: "Poppins-bold", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 1em;
   }
 

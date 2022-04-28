@@ -7,25 +7,22 @@ hide_title: false
 
 <div class="splash-header-Blue">
   <div class="splash-image-large"> 
-    <img src="/assets/images/2022NeuronautasSiteBanner.svg" />
+    <img src="/assets/images/Neuronautas2022CommMaterial_SiteBanner.svg" />
     <br/>
-  </div>
-  <div class="splash-block-pink">
-    <strong><b><p class="ex3"><a class="ex1" href="https://forms.gle/6mHJm5H2Kzr56eq98" target="_blank">Candidata-te até: 27.5.2022</a></p></b></strong>
   </div>
   <div class="splash-block-wide">
     <div class="splash-text-main">
-      <p class="ex0"><strong>Os <span class="blue-font"><strong>Neuronautas</strong></span> estão de volta! <br/>Esta Academia Gulbenkian do Conhecimento procura jovens prontos para embarcar numa viagem ao futuro da Neurociência!</strong></p> 
-      <br/>
-      <p class="ex1"><strong>Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</strong></p>
-      <p class="ex2"><strong>As candidaturas estão abertas a jovens, entre os 15 e os 17 anos e, este ano, poderás escolher entre duas opções: <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">Voo Longo</a> - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">Voo Curto</a> - 1 semana online</strong></p>
+      <p class="ex4"><a class="ex1" href="https://forms.gle/6mHJm5H2Kzr56eq98" target="_blank">Candidata-te até: 27.5.2022</a></p>
+      <p class="ex0">Os Neuronautas estão de volta! <br/>Esta Academia Gulbenkian do Conhecimento procura jovens prontos para embarcar numa viagem ao futuro da Neurociência!</p> 
+      <p class="ex1">Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</p>
+      <p class="ex2">As candidaturas estão abertas a jovens, entre os 15 e os 17 anos e, este ano, poderás escolher entre duas opções: </p>
+      <p class="ex3"><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">VOO LONGO</a>  - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">VOO CURTO</a> - 1 semana online</p>
     </div>
   </div>
 </div>
 <div class="splash-header">
-  <div class="splash-block"></div>
-  <div class="splash-block">
-    <span style="color:#3e5fed"><h2>O que são as Academias Gulbenkian do Conhecimento?</h2></span>
+  <div class="splash-block-main">
+      O que são as Academias Gulbenkian do Conhecimento?
   </div>
 </div>
 <div class="splash-header-Pink">
