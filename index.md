@@ -18,7 +18,7 @@ hide_title: false
       <p class="ex0">Os Neuronautas estão de volta! <br/>Esta Academia Gulbenkian do Conhecimento procura jovens prontos para embarcar numa viagem ao futuro da Neurociência!</p> 
       <p class="ex1">Prepara-te para viajar até a um futuro próximo, quando os humanos usam ferramentas e equipamento de acesso aberto e enfrentam grandes desafios!</p>
       <p class="ex2">As candidaturas estão abertas a jovens, entre os 15 e os 17 anos e, este ano, poderás escolher entre duas opções: </p>
-      <p class="ex3"><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">VOO LONGO</a>  - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">VOO CURTO</a> - 1 semana online</p>
+      <p class="ex3"><a class="ex1 title-button__shadow" href="/assets/files/Neuronautas2022_ScheduleVooLongo.pdf" target="_blank">VOO LONGO</a>  - 2 semanas no Centro Champalimaud em Lisboa <br/><br/><a class="ex1 title-button__shadow" href="/assets/files/Neuronautas2022_ScheduleVooCurto.pdf" target="_blank">VOO CURTO</a> - 1 semana online</p>
     </div>
   </div>
 </div>
